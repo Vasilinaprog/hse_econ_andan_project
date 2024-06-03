@@ -1,6 +1,3 @@
-![image](https://github.com/Vasilinaprog/hse_econ_andan_project/assets/71177581/5f3d1b97-0975-400f-ae29-447bde395785)# Анализ данных на python проект
-
-
 ## Наш план
 - Собрать данные:
   -Название
